@@ -1,9 +1,8 @@
 # RPCA
 
 ##Results
-* origin picture
-![Origin](https://github.com/ganji15/RPCA/blob/master/results/SRC/15D.jpg)
-* recovered picture
-![A](https://github.com/ganji15/RPCA/blob/master/results/SRC/15A.jpg)
-* error estimated
-![E](https://github.com/ganji15/RPCA/blob/master/results/SRC/15E.jpg)
+
+| origin picture        | recovered picture           | error estimated  |
+| ------------- |:-------------:| -----:|
+|![Origin](https://github.com/ganji15/RPCA/blob/master/results/SRC/15D.jpg)|![A](https://github.com/ganji15/RPCA/blob/master/results/SRC/15A.jpg)|![E](https://github.com/ganji15/RPCA/blob/master/results/SRC/15E.jpg)|
+|![Origin](https://github.com/ganji15/RPCA/blob/master/results/SRC/14D.jpg)|![A](https://github.com/ganji15/RPCA/blob/master/results/SRC/14A.jpg)|![E](https://github.com/ganji15/RPCA/blob/master/results/SRC/14E.jpg)|
