@@ -1,7 +1,7 @@
 '''
 Author: ganji15@mails.ucas.ac.cn
 '''
-
+t = 0
 ImageSrcDir = '.\\CroppedYale\\'
 EPath = '.\\E.txt'
 APath = '.\\A.txt'
