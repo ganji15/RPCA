@@ -1,3 +1,7 @@
+'''
+Author: ganji15@mails.ucas.ac.cn
+'''
+
 from Res import *
 from Utils import *
 import numpy

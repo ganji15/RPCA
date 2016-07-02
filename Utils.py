@@ -1,3 +1,7 @@
+'''
+Author: ganji15@mails.ucas.ac.cn
+'''
+
 import os
 import Image
 import numpy
